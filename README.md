@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiran Khayamali</h1>
-<h3 align="center">A passionate computer engineering student.</h3>
+<h3 align="center">A passionate Computer Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirankhayamali&label=Profile%20views&color=0e75b6&style=flat" alt="kirankhayamali" /> </p>
 
